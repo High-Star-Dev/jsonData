@@ -1,9 +1,9 @@
 {
   "mData": {
-    "inAppShow": "no",
+    "inAppShow": "yes",
     "inAppCancel": "yes",
-    "inAppUrl": "https://www.facebook.com/",
-    "inAppImgUrl": "https://cdn.pixabay.com/photo/2023/02/09/06/16/clouds-7778012_960_720.jpg",
+    "inAppUrl": "https://www.youtube.com/watch?v=L0WufUN_NEM",
+    "inAppImgUrl": "https://cdn.pixabay.com/photo/2023/02/27/05/04/mosque-7817391_960_720.png",
     "dev_email": "highstardev@gmail.com",
     "phoneNumberWhats": "201111308014",
     "phoneNumberCallMe": "01066336355",
